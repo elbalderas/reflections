@@ -32,3 +32,9 @@ in the diagram the way we do?
 
     The result is a single branch, the diagram represents that two branches
     are being combined into one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    Doing merges manually requires more time and analysis
+    Doing merges automatic takes over the control
