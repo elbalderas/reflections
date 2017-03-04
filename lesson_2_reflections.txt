@@ -15,3 +15,14 @@ change?
 
     Before you add to the stage area the changes you will commit compare it to
     the working directory and review the changes.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    For example when you need to need to make a bug fix or a experimentation
+    branch, it would help to keep your master branch untouched and your
+    test branch updated with the changes.
+
+How do the diagrams help you visualize the branch structure?
+
+    It shows a graphically the log and historic position of each commit
